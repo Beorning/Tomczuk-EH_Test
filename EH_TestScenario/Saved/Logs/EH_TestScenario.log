@@ -2087,3 +2087,95 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.19-18.15.14:109][618]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020B6ED40600), frame # 167618
 [2021.11.19-18.15.14:112][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2021.11.19-18.15.14:153][619]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.11.19-18.16.27:947][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot010" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot010.uasset" SILENT=true
+[2021.11.19-18.16.27:949][265]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot0107C1CBE894B9F21E6E311C583AC1C5036.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot010.uasset'
+[2021.11.19-18.16.28:080][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.11.19-18.16.28:101][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2021.11.19-18.16.28:115][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.19-18.16.28:127][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/CutsceneMaster" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset" SILENT=true
+[2021.11.19-18.16.28:133][265]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMasterFFA74F094CAF73D438C2DC967AEF70B9.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset'
+[2021.11.19-18.16.28:357][265]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-18.16.28:357][265]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot010.Shot010
+[2021.11.19-18.16.28:357][265]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-18.16.33:278][806]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/shots/Shot2.Shot2
+[2021.11.19-18.16.41:420][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.16.41:423][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.16.41:430][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.16.41:435][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.17.03:707][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.11.19-18.17.53:893][ 82]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.11.19-18.22.49:855][187]Cmd: TRANSACTION UNDO
+[2021.11.19-18.22.49:855][187]LogEditorTransaction: Undo Set Key Value
+[2021.11.19-18.23.26:957][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot2" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot2.uasset" SILENT=true
+[2021.11.19-18.23.26:970][263]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot2E6B8E9344DC08E8CABE7748256542932.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot2.uasset'
+[2021.11.19-18.23.26:983][263]AssetCheck: New page: Asset Save: Shot2
+[2021.11.19-18.23.26:983][263]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot2.Shot2
+[2021.11.19-18.23.36:608][ 62]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot2" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot2.uasset" SILENT=true
+[2021.11.19-18.23.36:621][ 62]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot207E7AF9D44C2E4042F963D99F50B9065.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot2.uasset'
+[2021.11.19-18.23.36:632][ 62]AssetCheck: New page: Asset Save: Shot2
+[2021.11.19-18.23.36:632][ 62]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot2.Shot2
+[2021.11.19-18.23.38:993][255]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-18.23.42:975][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.11.19-18.23.43:013][585]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.11.19-18.23.43:330][585]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap03D18FEE4B5745A11732F892D934F6CE.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-18.23.43:348][585]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.350
+[2021.11.19-18.23.43:603][585]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_BuiltDataD31ED8CC40EEE8A3032F87AD570FC5EF.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.11.19-18.23.43:617][585]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-18.23.43:617][585]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-18.23.43:617][585]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.11.19-18.23.53:182][617]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/shots/Shot3.Shot3
+[2021.11.19-18.23.58:889][159]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-18.24.03:999][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.11.19-18.24.04:096][657]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.19-18.24.08:931][657]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-18.24.13:322][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot_3" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_3.uasset" SILENT=true
+[2021.11.19-18.24.13:331][144]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot_3A641CB814D3542D915774198173CC391.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_3.uasset'
+[2021.11.19-18.24.13:465][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.19-18.24.13:487][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.11.19-18.24.13:500][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.19-18.24.13:716][144]AssetCheck: New page: Asset Save: Shot_3
+[2021.11.19-18.24.13:716][144]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot_3.Shot_3
+[2021.11.19-18.24.15:431][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.19-18.24.23:884][326]LogSlate: Window 'Replace References?' being destroyed
+[2021.11.19-18.24.23:887][326]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Shot_3; and then delete them.
+
+Are you sure?
+[2021.11.19-18.24.23:887][326]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-18.24.23:891][326]LogSlate: Window 'TopDownExampleMap' being destroyed
+[2021.11.19-18.24.23:895][326]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-18.24.23:896][326]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.24.24:710][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.11.19-18.24.26:253][326]LogSlate: Window 'Save Content' being destroyed
+[2021.11.19-18.24.26:277][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/CutsceneMaster" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset" SILENT=true
+[2021.11.19-18.24.26:284][326]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMasterFDB67F47488DBC60D2F2CCB0289B1998.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset'
+[2021.11.19-18.24.26:285][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot3" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot3.uasset" SILENT=true
+[2021.11.19-18.24.26:288][326]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot35A3757B04F9676F3C4FF2DAF0CA53163.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot3.uasset'
+[2021.11.19-18.24.26:301][326]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-18.24.26:301][326]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-18.24.26:302][326]LogContentValidation: Display: Validating ObjectRedirector /Game/Cutscene/Cutscene/shots/Shot3.Shot3
+[2021.11.19-18.24.29:376][687]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/shots/Shot_3.Shot_3
+[2021.11.19-18.25.59:876][822]Cmd: TRANSACTION UNDO
+[2021.11.19-18.25.59:876][822]LogEditorTransaction: Undo Set Key Value
+[2021.11.19-18.26.41:963][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.26.41:969][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.26.41:975][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.26.41:980][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.26.42:013][940]LogRenderer: Reallocating scene render targets to support 1916x1016 Format 10 NumSamples 1 (Frame:188614).
+[2021.11.19-18.27.18:869][660]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Tough Walk Woman Mixamo Com)
+[2021.11.19-18.27.52:656][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot_3" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_3.uasset" SILENT=true
+[2021.11.19-18.27.52:670][764]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot_303A0E99043E47982A32519AC8094F481.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_3.uasset'
+[2021.11.19-18.27.52:682][764]AssetCheck: New page: Asset Save: Shot_3
+[2021.11.19-18.27.52:682][764]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot_3.Shot_3
+[2021.11.19-18.29.34:535][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot_3" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_3.uasset" SILENT=true
+[2021.11.19-18.29.34:550][542]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot_378E404BA4EEDB6F93CED3488AD0FB8F0.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_3.uasset'
+[2021.11.19-18.29.34:562][542]AssetCheck: New page: Asset Save: Shot_3
+[2021.11.19-18.29.34:562][542]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot_3.Shot_3
+[2021.11.19-18.29.37:193][715]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-18.29.44:997][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.11.19-18.29.45:028][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.11.19-18.29.45:347][382]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMapA4DE4AAF4E222C4FB7D07094E0DB3EE5.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-18.29.45:364][382]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.348
+[2021.11.19-18.29.45:625][382]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_BuiltData7811EAE34B9F86C64CCFE1BCDCE3BEF7.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.11.19-18.29.45:641][382]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-18.29.45:641][382]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-18.29.45:641][382]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
