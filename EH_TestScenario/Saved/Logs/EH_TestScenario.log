@@ -2373,3 +2373,73 @@ Reference List:
 [2021.11.19-18.59.03:794][841]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2021.11.19-18.59.03:794][841]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
 [2021.11.19-18.59.03:794][841]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-19.02.28:355][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot_6" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_6.uasset" SILENT=true
+[2021.11.19-19.02.28:369][620]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot_6608D5CD2429BFCF70340449FB1322C64.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_6.uasset'
+[2021.11.19-19.02.28:498][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2021.11.19-19.02.28:526][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.11.19-19.02.28:538][620]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.19-19.02.28:686][620]AssetCheck: New page: Asset Save: Shot_6
+[2021.11.19-19.02.28:686][620]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot_6.Shot_6
+[2021.11.19-19.02.31:082][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.11.19-19.02.36:171][874]LogSlate: Window 'Replace References?' being destroyed
+[2021.11.19-19.02.36:174][874]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with Shot_6; and then delete them.
+
+Are you sure?
+[2021.11.19-19.02.36:174][874]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-19.02.36:638][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.11.19-19.02.37:838][874]LogSlate: Window 'Save Content' being destroyed
+[2021.11.19-19.02.37:858][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/CutsceneMaster" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset" SILENT=true
+[2021.11.19-19.02.37:865][874]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMasterC67F6783422C558E64BCB2A4998176BE.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset'
+[2021.11.19-19.02.37:866][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot6" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot6.uasset" SILENT=true
+[2021.11.19-19.02.37:870][874]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot663B597E0469484DA5C22FD95F147BEC8.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot6.uasset'
+[2021.11.19-19.02.37:882][874]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-19.02.37:882][874]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-19.02.37:882][874]LogContentValidation: Display: Validating ObjectRedirector /Game/Cutscene/Cutscene/shots/Shot6.Shot6
+[2021.11.19-19.02.39:418][ 26]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/shots/Shot_6.Shot_6
+[2021.11.19-19.03.10:556][270]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anim/Anim_Man/Man_Waking_mixamo_com.Man_Waking_mixamo_com
+[2021.11.19-19.03.10:588][270]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.19-19.03.10:654][270]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.11.19-19.03.10:903][270]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.19-19.03.19:245][739]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Man_Waking_mixamo_com1D512E994661C624E8C38BAD65365B6A.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Anim/Anim_Man/Man_Waking_mixamo_com.uasset'
+[2021.11.19-19.03.19:257][739]AssetCheck: New page: Asset Save: Man_Waking_mixamo_com
+[2021.11.19-19.03.19:257][739]LogContentValidation: Display: Validating AnimSequence /Game/Anim/Anim_Man/Man_Waking_mixamo_com.Man_Waking_mixamo_com
+[2021.11.19-19.03.20:723][827]LogSlate: Window 'Man_Waking_mixamo_com' being destroyed
+[2021.11.19-19.03.20:744][827]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-19.03.20:744][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-19.03.20:766][827]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-19.03.20:766][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-19.03.20:839][827]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-19.03.20:839][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-19.05.14:357][540]LogEditorViewport: Clicking on Actor (LMB): PointLight (Point Light)
+[2021.11.19-19.06.12:748][684]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Man Waking Mixamo Com)
+[2021.11.19-19.10.11:709][536]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Tough Walk Woman Mixamo Com)
+[2021.11.19-19.10.37:265][495]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Tough Walk Woman Mixamo Com)
+[2021.11.19-19.11.34:151][591]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Guard Sit Idle 2 Mixamo Com)
+[2021.11.19-19.11.42:011][153]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Guard Sit Idle 2 Mixamo Com)
+[2021.11.19-19.16.31:335][196]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anim/Anim_Man/Man_Waking_mixamo_com.Man_Waking_mixamo_com
+[2021.11.19-19.16.31:340][196]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.19-19.16.31:404][196]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.11.19-19.16.31:649][196]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.19-19.16.36:715][469]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Man_Waking_mixamo_com25D4AA77484919A8A33096812186E4D4.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Anim/Anim_Man/Man_Waking_mixamo_com.uasset'
+[2021.11.19-19.16.36:729][469]AssetCheck: New page: Asset Save: Man_Waking_mixamo_com
+[2021.11.19-19.16.36:729][469]LogContentValidation: Display: Validating AnimSequence /Game/Anim/Anim_Man/Man_Waking_mixamo_com.Man_Waking_mixamo_com
+[2021.11.19-19.16.53:749][641]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Man_Waking_mixamo_comE4902DEB4885791578A41B8461545833.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Anim/Anim_Man/Man_Waking_mixamo_com.uasset'
+[2021.11.19-19.16.53:761][641]AssetCheck: New page: Asset Save: Man_Waking_mixamo_com
+[2021.11.19-19.16.53:761][641]LogContentValidation: Display: Validating AnimSequence /Game/Anim/Anim_Man/Man_Waking_mixamo_com.Man_Waking_mixamo_com
+[2021.11.19-19.18.30:939][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot_6" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_6.uasset" SILENT=true
+[2021.11.19-19.18.30:958][303]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot_6ACCC6EC945FC138902BEA2950723D38E.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_6.uasset'
+[2021.11.19-19.18.30:971][303]AssetCheck: New page: Asset Save: Shot_6
+[2021.11.19-19.18.30:971][303]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot_6.Shot_6
+[2021.11.19-19.19.08:365][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot_6" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_6.uasset" SILENT=true
+[2021.11.19-19.19.08:384][852]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot_6F6967331451F0685D7E670AB1C35D679.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_6.uasset'
+[2021.11.19-19.19.08:397][852]AssetCheck: New page: Asset Save: Shot_6
+[2021.11.19-19.19.08:397][852]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot_6.Shot_6
+[2021.11.19-19.19.09:690][931]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-19.19.11:968][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.11.19-19.19.11:999][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.11.19-19.19.12:324][164]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap4328338C4806E18835EED6B400EF35B8.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-19.19.12:343][164]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.357
+[2021.11.19-19.19.12:599][164]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_BuiltData6B476E8C473294936D1410AFCB4A69B3.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.11.19-19.19.12:614][164]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-19.19.12:614][164]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-19.19.12:614][164]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
