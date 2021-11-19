@@ -4100,3 +4100,170 @@ Are you sure?
 [2021.11.19-21.16.49:091][977]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.19-21.16.49:091][977]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2021.11.19-21.16.49:091][977]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.11.19-21.19.11:009][769]LogSlate: Window 'TopDownExampleMap' being destroyed
+[2021.11.19-21.19.11:017][769]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-21.19.11:017][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-21.19.19:130][670]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\Cave_Ambient.wav)
+[2021.11.19-21.19.19:549][670]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Cave_Ambient...
+[2021.11.19-21.19.19:551][670]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Cave_Ambient.Cave_Ambient will be modified from 40 to 40.
+[2021.11.19-21.19.20:278][670]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 10640484 while cooking SoundWave /Game/Audio/Cave_Ambient.Cave_Ambient.
+[2021.11.19-21.19.27:752][536]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-21.25.34:482][936]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\DoorOpen.wav)
+[2021.11.19-21.25.37:432][936]LogSlate: Window 'Message' being destroyed
+[2021.11.19-21.25.37:435][936]Message dialog closed, result: No, title: Message, text: Use the selected Sound Wave 'Cave_Ambient' in the Content Browser as a template for sound(s) being imported?
+[2021.11.19-21.25.37:447][936]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave DoorOpen...
+[2021.11.19-21.25.37:447][936]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/DoorOpen.DoorOpen will be modified from 40 to 40.
+[2021.11.19-21.25.37:466][936]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 241668 while cooking SoundWave /Game/Audio/DoorOpen.DoorOpen.
+[2021.11.19-21.26.57:077][937]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.11.19-21.26.57:409][937]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_Auto403D4CB7C4BA6067DF1DD4E85EED0159D.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2021.11.19-21.26.57:412][937]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.352
+[2021.11.19-21.26.57:412][937]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.352
+[2021.11.19-21.26.57:412][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Cutscene/Cutscene/CutsceneMaster] ([1] browsable assets)...
+[2021.11.19-21.26.57:412][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Cutscene/Cutscene/CutsceneMaster]
+[2021.11.19-21.26.57:423][937]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMaster_Auto47898584F42BF323191A0CF8116290BF2.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Autosaves/Game/Cutscene/Cutscene/CutsceneMaster_Auto4.uasset'
+[2021.11.19-21.26.57:424][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/Cave_Ambient] ([1] browsable assets)...
+[2021.11.19-21.26.57:433][937]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/Cave_Ambient.Cave_Ambient]
+[2021.11.19-21.26.57:433][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/Cave_Ambient]
+[2021.11.19-21.26.57:438][937]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Cave_Ambient_Auto49D6A24F64098F955952E9EBD18787DEF.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Autosaves/Game/Audio/Cave_Ambient_Auto4.uasset'
+[2021.11.19-21.26.57:439][937]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Audio/DoorOpen] ([1] browsable assets)...
+[2021.11.19-21.26.57:441][937]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Audio/DoorOpen.DoorOpen]
+[2021.11.19-21.26.57:441][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/Audio/DoorOpen]
+[2021.11.19-21.26.57:441][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/DoorOpen" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Autosaves/Game/Audio/DoorOpen_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2021.11.19-21.26.57:443][937]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/DoorOpen_Auto425F54724473BB845FE4676848E329D24.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Autosaves/Game/Audio/DoorOpen_Auto4.uasset'
+[2021.11.19-21.26.57:444][937]LogFileHelpers: Auto-saving content packages took 0.032
+[2021.11.19-21.27.02:550][957]LogAudioEditor: Performing atomic reimport of [C:/Users/ibahu/Desktop/DoorOpen.wav]
+[2021.11.19-21.27.02:552][957]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/ibahu/Desktop/DoorOpen.wav)
+[2021.11.19-21.27.02:572][957]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave DoorOpen...
+[2021.11.19-21.27.02:572][957]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/DoorOpen.DoorOpen will be modified from 40 to 40.
+[2021.11.19-21.27.02:607][957]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 241668 to 483336 while cooking SoundWave /Game/Audio/DoorOpen.DoorOpen.
+[2021.11.19-21.27.02:608][957]LogAudioEditor: -- imported successfully
+[2021.11.19-21.27.02:610][957]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave DoorOpen...
+[2021.11.19-21.27.02:610][957]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/DoorOpen.DoorOpen will be modified from 40 to 40.
+[2021.11.19-21.27.59:974][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.11.19-21.28.00:014][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2021.11.19-21.28.00:330][136]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMapB4605F3D4ED801D057A7B69EBEB424C9.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-21.28.00:351][136]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.352
+[2021.11.19-21.28.00:620][136]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_BuiltData2BEB8BA842AD6FADF3DDA194EEA047A0.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.11.19-21.28.00:623][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/CutsceneMaster" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset" SILENT=true
+[2021.11.19-21.28.00:629][136]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMasterB2DCCE6D48F080F0216D90A698D6A2BE.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset'
+[2021.11.19-21.28.00:630][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/Cave_Ambient" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/Cave_Ambient.uasset" SILENT=true
+[2021.11.19-21.28.00:634][136]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Cave_AmbientD5C3412D4B89EAEE05D916977DC93ED8.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/Cave_Ambient.uasset'
+[2021.11.19-21.28.00:638][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/DoorOpen" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/DoorOpen.uasset" SILENT=true
+[2021.11.19-21.28.00:641][136]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/DoorOpen7127AA4741124530DF4F15956F68EDA0.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/DoorOpen.uasset'
+[2021.11.19-21.28.00:666][136]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-21.28.00:666][136]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-21.28.00:666][136]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.11.19-21.28.00:666][136]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-21.28.00:666][136]LogContentValidation: Display: Validating SoundWave /Game/Audio/Cave_Ambient.Cave_Ambient
+[2021.11.19-21.28.00:666][136]LogContentValidation: Display: Validating SoundWave /Game/Audio/DoorOpen.DoorOpen
+[2021.11.19-21.34.02:157][466]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\Woman-001.wav)
+[2021.11.19-21.34.04:554][466]LogSlate: Window 'Message' being destroyed
+[2021.11.19-21.34.04:557][466]Message dialog closed, result: No, title: Message, text: Use the selected Sound Wave 'DoorOpen' in the Content Browser as a template for sound(s) being imported?
+[2021.11.19-21.34.04:570][466]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Woman-001...
+[2021.11.19-21.34.04:570][466]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Woman-001.Woman-001 will be modified from 40 to 40.
+[2021.11.19-21.34.04:589][466]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 239414 while cooking SoundWave /Game/Audio/Woman-001.Woman-001.
+[2021.11.19-21.34.04:598][466]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\Woman-002.wav)
+[2021.11.19-21.34.04:607][466]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Woman-002...
+[2021.11.19-21.34.04:607][466]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Woman-002.Woman-002 will be modified from 40 to 40.
+[2021.11.19-21.34.04:624][466]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 228888 while cooking SoundWave /Game/Audio/Woman-002.Woman-002.
+[2021.11.19-21.34.04:632][466]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\Woman-003.wav)
+[2021.11.19-21.34.04:654][466]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Woman-003...
+[2021.11.19-21.34.04:654][466]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Woman-003.Woman-003 will be modified from 40 to 40.
+[2021.11.19-21.34.04:693][466]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 616284 while cooking SoundWave /Game/Audio/Woman-003.Woman-003.
+[2021.11.19-21.34.04:700][466]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\Man-001.wav)
+[2021.11.19-21.34.04:710][466]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Man-001...
+[2021.11.19-21.34.04:710][466]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Man-001.Man-001 will be modified from 40 to 40.
+[2021.11.19-21.34.04:727][466]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 245422 while cooking SoundWave /Game/Audio/Man-001.Man-001.
+[2021.11.19-21.34.04:734][466]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\Man-002.wav)
+[2021.11.19-21.34.04:744][466]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Man-002...
+[2021.11.19-21.34.04:744][466]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Man-002.Man-002 will be modified from 40 to 40.
+[2021.11.19-21.34.04:761][466]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 240844 while cooking SoundWave /Game/Audio/Man-002.Man-002.
+[2021.11.19-21.34.04:768][466]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\Guard-001.wav)
+[2021.11.19-21.34.04:779][466]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Guard-001...
+[2021.11.19-21.34.04:779][466]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Guard-001.Guard-001 will be modified from 40 to 40.
+[2021.11.19-21.34.04:798][466]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 306428 while cooking SoundWave /Game/Audio/Guard-001.Guard-001.
+[2021.11.19-21.34.04:808][466]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\Guard-002.wav)
+[2021.11.19-21.34.04:830][466]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Guard-002...
+[2021.11.19-21.34.04:830][466]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/Guard-002.Guard-002 will be modified from 40 to 40.
+[2021.11.19-21.34.04:867][466]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 587620 while cooking SoundWave /Game/Audio/Guard-002.Guard-002.
+[2021.11.19-21.36.29:769][762]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\VO-007.wav)
+[2021.11.19-21.36.32:199][762]LogSlate: Window 'Message' being destroyed
+[2021.11.19-21.36.32:202][762]Message dialog closed, result: No, title: Message, text: Use the selected Sound Wave 'Woman-003' in the Content Browser as a template for sound(s) being imported?
+[2021.11.19-21.36.32:257][762]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave VO-007...
+[2021.11.19-21.36.32:258][762]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/VO-007.VO-007 will be modified from 40 to 40.
+[2021.11.19-21.36.32:351][762]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1351640 while cooking SoundWave /Game/Audio/VO-007.VO-007.
+[2021.11.19-21.36.32:362][762]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\VO-001.wav)
+[2021.11.19-21.36.32:388][762]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave VO-001...
+[2021.11.19-21.36.32:388][762]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/VO-001.VO-001 will be modified from 40 to 40.
+[2021.11.19-21.36.32:432][762]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 655228 while cooking SoundWave /Game/Audio/VO-001.VO-001.
+[2021.11.19-21.36.32:441][762]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\VO-002.wav)
+[2021.11.19-21.36.32:465][762]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave VO-002...
+[2021.11.19-21.36.32:466][762]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/VO-002.VO-002 will be modified from 40 to 40.
+[2021.11.19-21.36.32:507][762]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 634176 while cooking SoundWave /Game/Audio/VO-002.VO-002.
+[2021.11.19-21.36.32:518][762]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\VO-003.wav)
+[2021.11.19-21.36.32:574][762]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave VO-003...
+[2021.11.19-21.36.32:574][762]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/VO-003.VO-003 will be modified from 40 to 40.
+[2021.11.19-21.36.32:666][762]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 1408968 while cooking SoundWave /Game/Audio/VO-003.VO-003.
+[2021.11.19-21.36.32:677][762]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\VO-004.wav)
+[2021.11.19-21.36.32:703][762]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave VO-004...
+[2021.11.19-21.36.32:703][762]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/VO-004.VO-004 will be modified from 40 to 40.
+[2021.11.19-21.36.32:750][762]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 667244 while cooking SoundWave /Game/Audio/VO-004.VO-004.
+[2021.11.19-21.36.32:758][762]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\VO-005.wav)
+[2021.11.19-21.36.32:784][762]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave VO-005...
+[2021.11.19-21.36.32:785][762]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/VO-005.VO-005 will be modified from 40 to 40.
+[2021.11.19-21.36.32:831][762]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 658088 while cooking SoundWave /Game/Audio/VO-005.VO-005.
+[2021.11.19-21.36.32:840][762]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\ibahu\Desktop\VO-006.wav)
+[2021.11.19-21.36.32:870][762]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave VO-006...
+[2021.11.19-21.36.32:870][762]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Audio/VO-006.VO-006 will be modified from 40 to 40.
+[2021.11.19-21.36.32:920][762]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 789256 while cooking SoundWave /Game/Audio/VO-006.VO-006.
+[2021.11.19-21.36.35:699][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.11.19-21.36.36:793][  9]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-21.36.36:867][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.11.19-21.36.42:209][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.11.19-21.36.43:220][513]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-21.36.43:288][513]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.11.19-21.39.13:806][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/CutsceneMaster" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset" SILENT=true
+[2021.11.19-21.39.13:820][144]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMasterBA9FD94D41F135940927789DF7D5EE61.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset'
+[2021.11.19-21.39.13:833][144]AssetCheck: New page: Asset Save: CutsceneMaster
+[2021.11.19-21.39.13:833][144]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-21.39.18:061][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.11.19-21.39.18:100][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.11.19-21.39.18:423][459]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap2CF207C14881AA85231772844C2C0E65.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-21.39.18:445][459]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.359
+[2021.11.19-21.39.18:707][459]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_BuiltData6B4E9F3C487B5DEBBA1AFE9950BF21FC.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.11.19-21.39.18:712][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/VO-002" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-002.uasset" SILENT=true
+[2021.11.19-21.39.18:714][459]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/VO-00227BFC380459A0D0D3CFC3FAAB536FA71.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-002.uasset'
+[2021.11.19-21.39.18:717][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/VO-001" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-001.uasset" SILENT=true
+[2021.11.19-21.39.18:720][459]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/VO-0014585FC274E8EEFD3D5E0CA97305ACC67.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-001.uasset'
+[2021.11.19-21.39.18:723][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/VO-007" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-007.uasset" SILENT=true
+[2021.11.19-21.39.18:725][459]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/VO-00732DC6C734AA339476DA0D79908F58DA8.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-007.uasset'
+[2021.11.19-21.39.18:729][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/VO-006" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-006.uasset" SILENT=true
+[2021.11.19-21.39.18:731][459]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/VO-006D7E931AA4B9AC37D8C08B49AFB6B4F31.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-006.uasset'
+[2021.11.19-21.39.18:734][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/VO-005" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-005.uasset" SILENT=true
+[2021.11.19-21.39.18:736][459]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/VO-00500922A474D3599A145176EA9A1C74D96.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-005.uasset'
+[2021.11.19-21.39.18:739][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/VO-004" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-004.uasset" SILENT=true
+[2021.11.19-21.39.18:741][459]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/VO-00438DE6D6F461BFD15A4EB23BA3AEBE5DE.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-004.uasset'
+[2021.11.19-21.39.18:745][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Audio/VO-003" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-003.uasset" SILENT=true
+[2021.11.19-21.39.18:747][459]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/VO-003D8E393C644A7D6E568C24890349023E0.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Audio/VO-003.uasset'
+[2021.11.19-21.39.18:786][459]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-21.39.18:786][459]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-21.39.18:786][459]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.11.19-21.39.18:787][459]LogContentValidation: Display: Validating SoundWave /Game/Audio/VO-002.VO-002
+[2021.11.19-21.39.18:787][459]LogContentValidation: Display: Validating SoundWave /Game/Audio/VO-001.VO-001
+[2021.11.19-21.39.18:787][459]LogContentValidation: Display: Validating SoundWave /Game/Audio/VO-007.VO-007
+[2021.11.19-21.39.18:787][459]LogContentValidation: Display: Validating SoundWave /Game/Audio/VO-006.VO-006
+[2021.11.19-21.39.18:787][459]LogContentValidation: Display: Validating SoundWave /Game/Audio/VO-005.VO-005
+[2021.11.19-21.39.18:787][459]LogContentValidation: Display: Validating SoundWave /Game/Audio/VO-004.VO-004
+[2021.11.19-21.39.18:787][459]LogContentValidation: Display: Validating SoundWave /Game/Audio/VO-003.VO-003
+[2021.11.19-21.45.14:534][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/CutsceneMaster" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset" SILENT=true
+[2021.11.19-21.45.14:546][225]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMasterD2C4191146D45B4E720BAE816BCF9219.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset'
+[2021.11.19-21.45.14:560][225]AssetCheck: New page: Asset Save: CutsceneMaster
+[2021.11.19-21.45.14:560][225]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-21.45.18:212][544]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.11.19-21.45.18:252][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.11.19-21.45.18:575][544]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMapC9F258994CB98621DD162B8B200183F4.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-21.45.18:600][544]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.366
+[2021.11.19-21.45.18:861][544]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_BuiltData59978FD2481861106B47D19E197B15D7.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.11.19-21.45.18:878][544]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-21.45.18:878][544]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-21.45.18:878][544]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
