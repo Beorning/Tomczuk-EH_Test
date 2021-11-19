@@ -2608,3 +2608,228 @@ Are you sure?
 [2021.11.19-20.21.38:016][ 85]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.19-20.21.38:016][ 85]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2021.11.19-20.21.38:016][ 85]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.11.19-20.22.37:040][823]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/shots/Shot_10.Shot_10
+[2021.11.19-20.24.04:286][632]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Tough Walk Woman Mixamo Com)
+[2021.11.19-20.24.28:798][532]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Guard Sit Idle 2 Mixamo Com)
+[2021.11.19-20.25.03:080][818]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Guard Sit Idle 2 Mixamo Com)
+[2021.11.19-20.25.18:482][379]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Tough Walk Woman Mixamo Com)
+[2021.11.19-20.27.20:690][613]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Man Waking Mixamo Com)
+[2021.11.19-20.28.16:862][ 92]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Tough Walk Woman Mixamo Com)
+[2021.11.19-20.28.41:308][432]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Man Waking Mixamo Com)
+[2021.11.19-20.29.11:718][222]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Guard Sit Idle 2 Mixamo Com)
+[2021.11.19-20.29.51:619][245]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Man Waking Mixamo Com)
+[2021.11.19-20.31.11:049][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot_10" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_10.uasset" SILENT=true
+[2021.11.19-20.31.11:064][398]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot_103F9E4A70419000083EEFEB864EACE137.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_10.uasset'
+[2021.11.19-20.31.11:080][398]AssetCheck: New page: Asset Save: Shot_10
+[2021.11.19-20.31.11:080][398]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot_10.Shot_10
+[2021.11.19-20.31.14:821][488]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-20.31.17:852][568]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.11.19-20.31.17:891][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.11.19-20.31.18:191][568]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap10D85F39488366B3F7B7D1BD456B1E0B.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-20.31.18:210][568]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.332
+[2021.11.19-20.31.18:465][568]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_BuiltDataE084D0BC4C001771C0CC07B0367CF646.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.11.19-20.31.18:483][568]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-20.31.18:483][568]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-20.31.18:483][568]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.11.19-20.31.31:657][756]MapCheck: New page: Map Check
+[2021.11.19-20.31.31:702][756]Cmd: MAP REBUILD ALLVISIBLE
+[2021.11.19-20.31.31:702][756]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.11.19-20.31.38:563][756]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.11.19-20.31.38:830][756]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.11.19-20.31.38:830][756]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.11.19-20.31.38:830][756]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.11.19-20.31.38:830][756]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.11.19-20.31.38:995][756]LogNavigationDataBuild: Display: UNavigationSystemV1::Build total execution time: 0.17s
+[2021.11.19-20.31.39:014][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.11.19-20.31.39:026][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:033][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:036][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2021.11.19-20.31.39:062][756]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 50
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 49
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 48
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 47
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 45
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 44
+[2021.11.19-20.31.39:063][756]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 43
+[2021.11.19-20.31.39:063][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:064][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:065][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:067][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:068][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:069][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:070][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:071][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:072][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:074][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:077][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.39:080][756]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 66
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 65
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 64
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 63
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 62
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 61
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 60
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 59
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 58
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 57
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 56
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 55
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 54
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 53
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 52
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 51
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 50
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 49
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 48
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 47
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 46
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 45
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 44
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 42
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 41
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 40
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 38
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 37
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 36
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 35
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 34
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 33
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 32
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 31
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 30
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 29
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 28
+[2021.11.19-20.31.40:635][756]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 27
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 26
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 25
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 23
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 18
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 17
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 16
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 15
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 13
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.11.19-20.31.40:636][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.11.19-20.31.40:636][756]TextureStreamingBuild: Display: Compiling optional shaders took 1.614 seconds.
+[2021.11.19-20.31.40:699][756]LogLevel: Display: Export Material TexCoord Scales took 0.063 seconds.
+[2021.11.19-20.31.40:703][756]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2021.11.19-20.31.40:715][756]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.11.19-20.31.40:720][756]LightingResults: New page: Lighting Build - 19 lis 2021, 22:31:40
+[2021.11.19-20.31.40:761][756]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.11.19-20.31.40:819][756]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.11.19-20.31.40:828][756]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.11.19-20.31.41:336][756]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.11.19-20.31.41:336][756]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3188
+[2021.11.19-20.31.47:797][756]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.11.19-20.31.47:797][756]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.11.19-20.31.47:797][756]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.11.19-20.31.47:797][756]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.11.19-20.31.47:797][756]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.11.19-20.31.48:057][756]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.11.19-20.31.48:057][756]MapCheck: New page: TopDownExampleMap - 19 lis 2021, 22:31:48
+[2021.11.19-20.31.48:057][756]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.11.19-20.31.48:058][756]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,909ms to complete.
+[2021.11.19-20.31.48:059][756]LogEditorBuildUtils: Build time 0:16
+[2021.11.19-20.31.48:408][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2021.11.19-20.31.48:413][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Walnut, compiling. 
+[2021.11.19-20.31.48:415][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2021.11.19-20.31.48:420][756]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.11.19-20.31.48:420][756]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.11.19-20.31.48:420][756]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.11.19-20.31.48:420][756]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.11.19-20.31.48:420][756]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood_Pine, compiling. 
+[2021.11.19-20.31.48:495][756]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.11.19-20.31.48:495][756]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.11.19-20.31.48:495][756]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.11.19-20.31.48:495][756]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.11.19-20.31.49:200][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.11.19-20.31.54:671][908]LogSlate: Window 'Message Log' being destroyed
+[2021.11.19-20.31.54:715][908]LogSlate: Window 'Message Log' being destroyed
+[2021.11.19-20.31.59:269][ 49]Job is a success!
+[2021.11.19-20.31.59:767][ 50]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.278s
+[2021.11.19-20.31.59:767][ 50]LogVolumetricLightmapImport:      Indirection Texture 48x48x32 = 0.3Mb
+[2021.11.19-20.31.59:767][ 50]LogVolumetricLightmapImport:      BrickData (all levels) 7.5Mb (trimmed 6.2Mb due to 0.010000 MinBrickError)
+[2021.11.19-20.31.59:767][ 50]LogVolumetricLightmapImport:      Bricks at depth
+[2021.11.19-20.31.59:767][ 50]LogVolumetricLightmapImport:          0: 1.2% covering 100.0% of volume
+[2021.11.19-20.31.59:767][ 50]LogVolumetricLightmapImport:          1: 10.7% covering 14.2% of volume
+[2021.11.19-20.31.59:767][ 50]LogVolumetricLightmapImport:          2: 88.1% covering 1.8% of volume
+[2021.11.19-20.31.59:767][ 50]LogVolumetricLightmapImport:      Bricks in each level
+[2021.11.19-20.31.59:767][ 50]LogVolumetricLightmapImport:          TopDownExampleMap 			 1526 bricks 	 100.0% (Persistent Level)
+[2021.11.19-20.32.01:283][ 50]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2021.11.19-20.32.01:283][ 50]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.11.19-20.32.01:283][ 50]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.11.19-20.32.01:283][ 50]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2021.11.19-20.32.01:283][ 50]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.11.19-20.32.01:283][ 50]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 1024X512)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 1024X512)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 1024X512)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 512X256)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 512X512)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 512X512)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 64X32)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 64X64)
+[2021.11.19-20.32.01:284][ 50]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 64X64)
+[2021.11.19-20.32.01:483][ 50]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2021.11.19-20.32.01:483][ 50]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (BGRA8, 512X256)
+[2021.11.19-20.32.01:483][ 50]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 512X512)
+[2021.11.19-20.32.01:484][ 50]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2021.11.19-20.32.01:543][ 50]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2021.11.19-20.32.01:543][ 50]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2021.11.19-20.32.01:543][ 50]Lightmass on DESKTOP-F3K469H: 11.9 sec total, 125 ms importing, 20 ms setup, 1.63 sec photons, 10.1 sec processing, 0 ms extra exporting [1893/1893 mappings]. Threads: 2:32 min total, 28.5 sec processing.
+[2021.11.19-20.32.01:564][ 50]LogStaticLightingSystem: TopDownExampleMap_BuiltData storing lightmap data for 719 meshes in 10 LightmapResourceClusters (71.9 Meshes per cluster).
+[2021.11.19-20.32.01:676][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.11.19-20.32.01:881][ 50]LogStaticLightingSystem: Illumination: 21.0 sec (594 ms encoding lightmaps, 220 ms encoding shadowmaps)
+[2021.11.19-20.32.01:881][ 50]LogStaticLightingSystem: Lightmap texture memory:  19.3 MB (0.7 MB streaming, 18.7 MB non-streaming), 18 textures
+[2021.11.19-20.32.01:881][ 50]LogStaticLightingSystem: Shadowmap texture memory: 17.0 MB (0.7 MB streaming, 16.3 MB non-streaming), 6 textures
+[2021.11.19-20.32.06:811][ 50]DumpUnbuiltLightIteractions
+[2021.11.19-20.32.06:811][ 50]Lights with unbuilt interactions: 0
+[2021.11.19-20.32.06:811][ 50]
+[2021.11.19-20.32.06:811][ 50]Primitives with unbuilt interactions: 0
+[2021.11.19-20.32.06:930][ 51]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.11.19-20.32.06:930][ 51]MapCheck: New page: TopDownExampleMap - 19 lis 2021, 22:32:06
+[2021.11.19-20.32.06:931][ 51]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,739ms to complete.
+[2021.11.19-20.32.20:987][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.11.19-20.32.21:022][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.19-20.32.21:334][562]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap599E85134CF84A06E412B9B6E041C9FB.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-20.32.21:351][562]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.342
+[2021.11.19-20.32.21:601][562]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_BuiltDataA4BC6B4346708DFA2F4B7187AE1BB487.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.11.19-20.32.21:623][562]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-20.32.21:623][562]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-20.32.21:623][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
