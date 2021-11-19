@@ -1178,3 +1178,912 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.11.19-17.56.08:915][392]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2021.11.19-17.56.08:915][392]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
 [2021.11.19-17.56.08:915][392]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot1.Shot1
+[2021.11.19-17.57.02:902][  8]LogSlate: Window 'TopDownExampleMap' being destroyed
+[2021.11.19-17.57.02:913][  8]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-17.57.02:913][  8]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-17.57.30:599][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-17.57.30:602][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-17.57.30:610][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-17.57.30:614][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-17.57.33:361][955]LogRenderer: Reallocating scene render targets to support 1516x472 Format 10 NumSamples 1 (Frame:41325).
+[2021.11.19-17.57.33:401][956]LogRenderer: Reallocating scene render targets to support 1516x500 Format 10 NumSamples 1 (Frame:41327).
+[2021.11.19-17.57.33:436][957]LogRenderer: Reallocating scene render targets to support 1516x520 Format 10 NumSamples 1 (Frame:41329).
+[2021.11.19-17.57.33:467][958]LogRenderer: Reallocating scene render targets to support 1516x556 Format 10 NumSamples 1 (Frame:41331).
+[2021.11.19-17.57.33:497][959]LogRenderer: Reallocating scene render targets to support 1516x576 Format 10 NumSamples 1 (Frame:41333).
+[2021.11.19-17.57.33:531][960]LogRenderer: Reallocating scene render targets to support 1516x588 Format 10 NumSamples 1 (Frame:41335).
+[2021.11.19-17.57.33:563][961]LogRenderer: Reallocating scene render targets to support 1516x600 Format 10 NumSamples 1 (Frame:41337).
+[2021.11.19-17.57.33:594][962]LogRenderer: Reallocating scene render targets to support 1516x612 Format 10 NumSamples 1 (Frame:41339).
+[2021.11.19-17.57.33:624][963]LogRenderer: Reallocating scene render targets to support 1516x616 Format 10 NumSamples 1 (Frame:41341).
+[2021.11.19-17.57.33:655][964]LogRenderer: Reallocating scene render targets to support 1516x628 Format 10 NumSamples 1 (Frame:41343).
+[2021.11.19-17.57.33:685][965]LogRenderer: Reallocating scene render targets to support 1516x636 Format 10 NumSamples 1 (Frame:41345).
+[2021.11.19-17.57.33:714][966]LogRenderer: Reallocating scene render targets to support 1516x644 Format 10 NumSamples 1 (Frame:41347).
+[2021.11.19-17.57.33:769][968]LogRenderer: Reallocating scene render targets to support 1516x648 Format 10 NumSamples 1 (Frame:41351).
+[2021.11.19-17.57.33:800][969]LogRenderer: Reallocating scene render targets to support 1516x652 Format 10 NumSamples 1 (Frame:41353).
+[2021.11.19-17.57.45:434][318]LogActorFactory: Actor Factory created Cube
+[2021.11.19-17.57.47:074][493]LogActorFactory: Actor Factory created Cube
+[2021.11.19-17.58.22:720][444]LogRenderer: Reallocating scene render targets to support 1520x652 Format 10 NumSamples 1 (Frame:46091).
+[2021.11.19-17.58.22:796][446]LogRenderer: Reallocating scene render targets to support 1532x652 Format 10 NumSamples 1 (Frame:46095).
+[2021.11.19-17.58.22:841][447]LogRenderer: Reallocating scene render targets to support 1556x652 Format 10 NumSamples 1 (Frame:46097).
+[2021.11.19-17.58.22:886][448]LogRenderer: Reallocating scene render targets to support 1576x652 Format 10 NumSamples 1 (Frame:46099).
+[2021.11.19-17.58.22:924][449]LogRenderer: Reallocating scene render targets to support 1616x652 Format 10 NumSamples 1 (Frame:46101).
+[2021.11.19-17.58.22:965][450]LogRenderer: Reallocating scene render targets to support 1648x652 Format 10 NumSamples 1 (Frame:46103).
+[2021.11.19-17.58.23:001][451]LogRenderer: Reallocating scene render targets to support 1664x652 Format 10 NumSamples 1 (Frame:46105).
+[2021.11.19-17.58.23:073][454]LogRenderer: Reallocating scene render targets to support 1668x652 Format 10 NumSamples 1 (Frame:46109).
+[2021.11.19-17.58.23:110][456]LogRenderer: Reallocating scene render targets to support 1672x652 Format 10 NumSamples 1 (Frame:46111).
+[2021.11.19-18.03.49:055][992]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ibahu\Downloads\animGuard\Guard_SitIdle.fbx)
+[2021.11.19-18.03.49:085][992]LogFbx: Loading FBX Scene from C:\Users\ibahu\Downloads\animGuard\Guard_SitIdle.fbx
+[2021.11.19-18.03.49:159][992]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.19-18.03.51:182][992]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(0) Hips
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(1) Spine
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(2) Spine1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(3) Spine2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(4) Neck
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(5) Head
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(8) LeftArm
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(10) LeftHand
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(31) RightShoulder
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(32) RightArm
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(33) RightForeArm
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(34) RightHand
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(39) RightHandPinky1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(40) RightHandPinky2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(41) RightHandPinky3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(42) RightHandPinky4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(43) RightHandRing1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(44) RightHandRing2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(45) RightHandRing3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(46) RightHandRing4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(47) RightHandMiddle1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(48) RightHandMiddle2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(49) RightHandMiddle3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(50) RightHandMiddle4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(51) RightHandIndex1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(52) RightHandIndex2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(53) RightHandIndex3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(54) RightHandIndex4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(56) LeftLeg
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(57) LeftFoot
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(61) RightLeg
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(62) RightFoot
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(63) RightToeBase
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(64) RightToe_End
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(0) Hips
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(1) Spine
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(2) Spine1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(3) Spine2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(4) Neck
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(5) Head
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(8) LeftArm
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(10) LeftHand
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.11.19-18.03.51:206][992]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(31) RightShoulder
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(32) RightArm
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(33) RightForeArm
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(34) RightHand
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(39) RightHandPinky1
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(40) RightHandPinky2
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(41) RightHandPinky3
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(42) RightHandPinky4
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(43) RightHandRing1
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(44) RightHandRing2
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(45) RightHandRing3
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(46) RightHandRing4
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(47) RightHandMiddle1
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(48) RightHandMiddle2
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(49) RightHandMiddle3
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(50) RightHandMiddle4
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(51) RightHandIndex1
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(52) RightHandIndex2
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(53) RightHandIndex3
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(54) RightHandIndex4
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(56) LeftLeg
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(57) LeftFoot
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(61) RightLeg
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(62) RightFoot
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(63) RightToeBase
+[2021.11.19-18.03.51:207][992]LogFbx: SortedLinks :(64) RightToe_End
+[2021.11.19-18.03.51:208][992]LogFbx: Parsing AnimStack Take 001
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:218][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:219][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:220][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:221][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.51:222][992]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.51:358][992]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle_Take_001.Guard_SitIdle_Take_001
+[2021.11.19-18.03.51:358][992]LogFbx: Parsing AnimStack mixamo.com
+[2021.11.19-18.03.51:829][992]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle_mixamo_com.Guard_SitIdle_mixamo_com
+[2021.11.19-18.03.51:868][993]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle_mixamo_com.Guard_SitIdle_mixamo_com
+[2021.11.19-18.03.55:423][123]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\ibahu\Downloads\animGuard\Guard_SitIdle2.fbx)
+[2021.11.19-18.03.55:453][123]LogFbx: Loading FBX Scene from C:\Users\ibahu\Downloads\animGuard\Guard_SitIdle2.fbx
+[2021.11.19-18.03.55:529][123]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.19-18.03.57:908][123]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(0) Hips
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(1) Spine
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(2) Spine1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(3) Spine2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(4) Neck
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(5) Head
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(8) LeftArm
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(10) LeftHand
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(31) RightShoulder
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(32) RightArm
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(33) RightForeArm
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(34) RightHand
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(39) RightHandPinky1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(40) RightHandPinky2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(41) RightHandPinky3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(42) RightHandPinky4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(43) RightHandRing1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(44) RightHandRing2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(45) RightHandRing3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(46) RightHandRing4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(47) RightHandMiddle1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(48) RightHandMiddle2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(49) RightHandMiddle3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(50) RightHandMiddle4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(51) RightHandIndex1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(52) RightHandIndex2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(53) RightHandIndex3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(54) RightHandIndex4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(56) LeftLeg
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(57) LeftFoot
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(61) RightLeg
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(62) RightFoot
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(63) RightToeBase
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(64) RightToe_End
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(0) Hips
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(1) Spine
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(2) Spine1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(3) Spine2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(4) Neck
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(5) Head
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(8) LeftArm
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(10) LeftHand
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.11.19-18.03.57:925][123]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(31) RightShoulder
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(32) RightArm
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(33) RightForeArm
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(34) RightHand
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(35) RightHandThumb1
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(36) RightHandThumb2
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(37) RightHandThumb3
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(38) RightHandThumb4
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(39) RightHandPinky1
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(40) RightHandPinky2
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(41) RightHandPinky3
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(42) RightHandPinky4
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(43) RightHandRing1
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(44) RightHandRing2
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(45) RightHandRing3
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(46) RightHandRing4
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(47) RightHandMiddle1
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(48) RightHandMiddle2
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(49) RightHandMiddle3
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(50) RightHandMiddle4
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(51) RightHandIndex1
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(52) RightHandIndex2
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(53) RightHandIndex3
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(54) RightHandIndex4
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(56) LeftLeg
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(57) LeftFoot
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(61) RightLeg
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(62) RightFoot
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(63) RightToeBase
+[2021.11.19-18.03.57:926][123]LogFbx: SortedLinks :(64) RightToe_End
+[2021.11.19-18.03.57:927][123]LogFbx: Parsing AnimStack Take 001
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:939][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:940][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:941][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:942][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName : DefaultAttributeIndex
+[2021.11.19-18.03.57:943][123]LogFbx: CurveName(DefaultAttributeIndex) is skipped because it only contains invalid values.
+[2021.11.19-18.03.58:075][123]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle2_Take_001.Guard_SitIdle2_Take_001
+[2021.11.19-18.03.58:075][123]LogFbx: Parsing AnimStack mixamo.com
+[2021.11.19-18.03.58:573][123]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle2_mixamo_com.Guard_SitIdle2_mixamo_com
+[2021.11.19-18.03.58:619][124]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle2_mixamo_com.Guard_SitIdle2_mixamo_com
+[2021.11.19-18.04.03:480][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.11.19-18.04.04:301][573]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-18.04.04:376][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.11.19-18.04.05:224][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2021.11.19-18.04.05:938][646]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-18.04.05:995][646]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.11.19-18.04.07:580][788]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Guard_SitIdle_mixamo_comD8492A994111FF6F8E3334942491762A.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Anim/Anim_Guard/Guard_SitIdle_mixamo_com.uasset'
+[2021.11.19-18.04.07:594][788]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Guard_SitIdle2_mixamo_com8C3FE0D24CFA3F7FDEB936B097838691.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Anim/Anim_Guard/Guard_SitIdle2_mixamo_com.uasset'
+[2021.11.19-18.04.07:610][788]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-18.04.07:610][788]LogContentValidation: Display: Validating AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle_mixamo_com.Guard_SitIdle_mixamo_com
+[2021.11.19-18.04.07:610][788]LogContentValidation: Display: Validating AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle2_mixamo_com.Guard_SitIdle2_mixamo_com
+[2021.11.19-18.05.13:049][885]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle_mixamo_com.Guard_SitIdle_mixamo_com
+[2021.11.19-18.05.13:071][885]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.11.19-18.05.13:200][885]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.19-18.05.13:206][885]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.11.19-18.05.13:276][885]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2021.11.19-18.05.13:766][885]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.19-18.05.18:165][181]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Guard_SitIdle_mixamo_com59DA7BCC4F010050965DC4963B391E2E.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Anim/Anim_Guard/Guard_SitIdle_mixamo_com.uasset'
+[2021.11.19-18.05.18:177][181]AssetCheck: New page: Asset Save: Guard_SitIdle_mixamo_com
+[2021.11.19-18.05.18:177][181]LogContentValidation: Display: Validating AnimSequence /Game/Anim/Anim_Guard/Guard_SitIdle_mixamo_com.Guard_SitIdle_mixamo_com
+[2021.11.19-18.05.18:896][229]LogSlate: Window 'Guard_SitIdle_mixamo_com' being destroyed
+[2021.11.19-18.05.18:901][229]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-18.05.18:901][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.05.18:923][229]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-18.05.18:923][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.05.18:991][229]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-18.05.18:991][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.05.39:534][419]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Guard Male Sitting Pose Mixamo Com)
+[2021.11.19-18.12.48:535][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot1" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot1.uasset" SILENT=true
+[2021.11.19-18.12.48:546][728]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot164219C7F4BBB8D04E062E2A3E6CAC02F.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot1.uasset'
+[2021.11.19-18.12.48:560][728]AssetCheck: New page: Asset Save: Shot1
+[2021.11.19-18.12.48:560][728]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot1.Shot1
+[2021.11.19-18.12.54:396][335]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-18.13.10:739][477]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-18.13.34:967][ 61]LogSlate: Window 'Save Content' being destroyed
+[2021.11.19-18.13.34:995][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/CutsceneMaster" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset" SILENT=true
+[2021.11.19-18.13.35:005][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMasterC19FF9CF4767A3C98E18C0A6D54FE680.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset'
+[2021.11.19-18.13.35:006][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot10" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot10.uasset" SILENT=true
+[2021.11.19-18.13.35:009][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot102763DBBB403EFBAFA368819997BC5AF6.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot10.uasset'
+[2021.11.19-18.13.35:010][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot2" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot2.uasset" SILENT=true
+[2021.11.19-18.13.35:013][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot2922BAA4E4EAD3B940833279BAAE14136.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot2.uasset'
+[2021.11.19-18.13.35:014][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot3" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot3.uasset" SILENT=true
+[2021.11.19-18.13.35:017][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot3956F27C34977478EC5FDE7805C73C6B8.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot3.uasset'
+[2021.11.19-18.13.35:018][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot4" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot4.uasset" SILENT=true
+[2021.11.19-18.13.35:021][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot467FEC35D4E67FCAA8D1892BFD9C5F5E3.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot4.uasset'
+[2021.11.19-18.13.35:022][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot5_0" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot5_0.uasset" SILENT=true
+[2021.11.19-18.13.35:026][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot5_0057A227A46BE1D64C460EA87C75120E9.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot5_0.uasset'
+[2021.11.19-18.13.35:026][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot5_1" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot5_1.uasset" SILENT=true
+[2021.11.19-18.13.35:030][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot5_1BE30A949484B16CDB07C7297E5F9D009.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot5_1.uasset'
+[2021.11.19-18.13.35:031][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot6" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot6.uasset" SILENT=true
+[2021.11.19-18.13.35:034][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot60C016C59408991B67900DBB194C45880.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot6.uasset'
+[2021.11.19-18.13.35:035][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot7" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot7.uasset" SILENT=true
+[2021.11.19-18.13.35:039][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot7112251DC4138B56EF5B74B9373B6F737.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot7.uasset'
+[2021.11.19-18.13.35:039][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot8" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8.uasset" SILENT=true
+[2021.11.19-18.13.35:043][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot8D2CEEC11443B87519E59E6974891D3BC.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8.uasset'
+[2021.11.19-18.13.35:044][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot8_2" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8_2.uasset" SILENT=true
+[2021.11.19-18.13.35:048][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot8_2221134DF4282CB5DE73CE18738DA5D07.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8_2.uasset'
+[2021.11.19-18.13.35:049][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot8_3" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8_3.uasset" SILENT=true
+[2021.11.19-18.13.35:052][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot8_39DB234CA46796EA1A49F11884995BD93.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8_3.uasset'
+[2021.11.19-18.13.35:053][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot8_4" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8_4.uasset" SILENT=true
+[2021.11.19-18.13.35:057][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot8_4CA9CB8C54349053114DED39870C3EBCA.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8_4.uasset'
+[2021.11.19-18.13.35:058][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot8_5" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8_5.uasset" SILENT=true
+[2021.11.19-18.13.35:061][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot8_512B133224B4BAEAC86BAE587A2FEFDBB.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot8_5.uasset'
+[2021.11.19-18.13.35:062][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot9" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot9.uasset" SILENT=true
+[2021.11.19-18.13.35:066][ 61]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot981460A834C55AB63F4C9AF9FD866C5DD.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot9.uasset'
+[2021.11.19-18.13.35:129][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-18.13.35:129][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-18.13.35:129][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot10.Shot10
+[2021.11.19-18.13.35:129][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot2.Shot2
+[2021.11.19-18.13.35:129][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot3.Shot3
+[2021.11.19-18.13.35:129][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot4.Shot4
+[2021.11.19-18.13.35:129][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot5_0.Shot5_0
+[2021.11.19-18.13.35:129][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot5_1.Shot5_1
+[2021.11.19-18.13.35:129][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot6.Shot6
+[2021.11.19-18.13.35:129][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot7.Shot7
+[2021.11.19-18.13.35:130][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot8.Shot8
+[2021.11.19-18.13.35:130][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot8_2.Shot8_2
+[2021.11.19-18.13.35:130][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot8_3.Shot8_3
+[2021.11.19-18.13.35:130][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot8_4.Shot8_4
+[2021.11.19-18.13.35:130][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot8_5.Shot8_5
+[2021.11.19-18.13.35:130][ 61]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot9.Shot9
+[2021.11.19-18.13.41:050][753]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-18.13.41:052][753]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-18.13.43:829][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.19-18.13.43:838][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.19-18.13.43:838][ 78]PIE: New page: PIE session: TopDownExampleMap (19 lis 2021, 20:13:43)
+[2021.11.19-18.13.43:838][ 78]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.13.43:968][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130121s)
+[2021.11.19-18.13.43:969][ 78]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.11.19-18.13.43:969][ 78]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020ACED36200), frame # 158078
+[2021.11.19-18.13.43:969][ 78]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020B6F6F7D80), frame # 158078
+[2021.11.19-18.13.43:969][ 78]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2021.11.19-18.13.43:969][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.131360s)
+[2021.11.19-18.13.44:025][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.11.19-18.13.44:028][ 78]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.19-18.13.44:028][ 78]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.19-18.13.44:028][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.19-18.13.44:028][ 78]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.19-18.13.44:028][ 78]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.19-18.13.44:028][ 78]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.19-18.13.44:028][ 78]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.19-18.13.44:028][ 78]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.19-18.13.44:028][ 78]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.19-18.13.44:028][ 78]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.19-18.13.44:034][ 78]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.19-18.13.44:034][ 78]LogAudioMixer: Display: 1: FrontRight
+[2021.11.19-18.13.44:045][ 78]LogAudioMixer: Display: Using Audio Device Out 1-2 (MOTU M Series)
+[2021.11.19-18.13.44:045][ 78]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.19-18.13.44:045][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.19-18.13.44:045][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.19-18.13.44:046][ 78]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.19-18.13.44:055][ 78]LogInit: FAudioDevice initialized.
+[2021.11.19-18.13.44:064][ 78]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.11.19-18.13.44:070][ 78]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.11.19-19.13.44
+[2021.11.19-18.13.44:071][ 78]LogWorld: Bringing up level for play took: 0.007497
+[2021.11.19-18.13.44:072][ 78]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.11.19-18.13.44:073][ 78]PIE: Server logged in
+[2021.11.19-18.13.44:074][ 78]PIE: Play in editor total start time 0,237 seconds.
+[2021.11.19-18.13.47:186][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.13.47:186][443]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.13.47:186][443]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-18.13.47:188][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.13.47:191][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.19-18.13.47:195][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.13.47:205][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.13.47:228][443]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020B6F6F7D80), frame # 158443
+[2021.11.19-18.13.47:228][443]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020ACED36200), frame # 158443
+[2021.11.19-18.13.47:242][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.11.19-18.13.47:275][444]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.11.19-18.13.49:441][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.13.49:445][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.13.49:450][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.13.49:454][691]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.13.50:465][799]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.19-18.13.50:474][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.19-18.13.50:474][799]PIE: New page: PIE session: TopDownExampleMap (19 lis 2021, 20:13:50)
+[2021.11.19-18.13.50:474][799]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.13.50:604][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.130115s)
+[2021.11.19-18.13.50:605][799]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.11.19-18.13.50:605][799]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020AD3230A00), frame # 158799
+[2021.11.19-18.13.50:605][799]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020AB6314F40), frame # 158799
+[2021.11.19-18.13.50:605][799]LogPlayLevel: PIE: World Init took: (0.001131s)
+[2021.11.19-18.13.50:605][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.131384s)
+[2021.11.19-18.13.50:616][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2021.11.19-18.13.50:619][799]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.19-18.13.50:619][799]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.19-18.13.50:619][799]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.19-18.13.50:619][799]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.19-18.13.50:619][799]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.19-18.13.50:619][799]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.19-18.13.50:619][799]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.19-18.13.50:619][799]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.19-18.13.50:619][799]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.19-18.13.50:619][799]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.19-18.13.50:624][799]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.19-18.13.50:624][799]LogAudioMixer: Display: 1: FrontRight
+[2021.11.19-18.13.50:634][799]LogAudioMixer: Display: Using Audio Device Out 1-2 (MOTU M Series)
+[2021.11.19-18.13.50:634][799]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.19-18.13.50:634][799]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.19-18.13.50:634][799]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.19-18.13.50:635][799]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.19-18.13.50:644][799]LogInit: FAudioDevice initialized.
+[2021.11.19-18.13.50:651][799]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.11.19-18.13.50:658][799]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.11.19-19.13.50
+[2021.11.19-18.13.50:659][799]LogWorld: Bringing up level for play took: 0.007559
+[2021.11.19-18.13.50:660][799]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.11.19-18.13.50:661][799]PIE: Server logged in
+[2021.11.19-18.13.50:662][799]PIE: Play in editor total start time 0,189 seconds.
+[2021.11.19-18.13.59:406][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.13.59:406][840]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.13.59:406][840]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-18.13.59:408][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.13.59:418][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.19-18.13.59:421][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.13.59:432][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.13.59:444][840]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020AB6314F40), frame # 159840
+[2021.11.19-18.13.59:444][840]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020AD3230A00), frame # 159840
+[2021.11.19-18.13.59:447][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.11.19-18.13.59:480][841]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.11.19-18.14.08:430][907]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/shots/Shot1.Shot1
+[2021.11.19-18.14.21:123][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot1" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot1.uasset" SILENT=true
+[2021.11.19-18.14.21:134][246]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot195948FA54736BC796E4DA98F63A24B83.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot1.uasset'
+[2021.11.19-18.14.21:145][246]AssetCheck: New page: Asset Save: Shot1
+[2021.11.19-18.14.21:145][246]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot1.Shot1
+[2021.11.19-18.14.22:649][398]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-18.14.34:037][654]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2021.11.19-18.14.34:066][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.11.19-18.14.34:387][654]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMapF29CE85F44D2B34C3B8892AA7FEA5EB0.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-18.14.34:405][654]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.351
+[2021.11.19-18.14.34:659][654]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap_BuiltDataB38AA1B74344F3904E516691F8436889.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.11.19-18.14.34:675][654]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.19-18.14.34:675][654]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-18.14.34:675][654]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.11.19-18.14.35:188][715]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.19-18.14.35:197][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.19-18.14.35:198][715]PIE: New page: PIE session: TopDownExampleMap (19 lis 2021, 20:14:35)
+[2021.11.19-18.14.35:215][715]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.14.35:349][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133972s)
+[2021.11.19-18.14.35:350][715]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.11.19-18.14.35:350][715]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020A3433F200), frame # 163715
+[2021.11.19-18.14.35:350][715]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020ABD9A9F80), frame # 163715
+[2021.11.19-18.14.35:350][715]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2021.11.19-18.14.35:350][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.135208s)
+[2021.11.19-18.14.35:362][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2021.11.19-18.14.35:366][715]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.19-18.14.35:366][715]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.19-18.14.35:366][715]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.19-18.14.35:366][715]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.19-18.14.35:366][715]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.19-18.14.35:366][715]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.19-18.14.35:366][715]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.19-18.14.35:366][715]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.19-18.14.35:366][715]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.19-18.14.35:366][715]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.19-18.14.35:371][715]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.19-18.14.35:371][715]LogAudioMixer: Display: 1: FrontRight
+[2021.11.19-18.14.35:382][715]LogAudioMixer: Display: Using Audio Device Out 1-2 (MOTU M Series)
+[2021.11.19-18.14.35:382][715]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.19-18.14.35:382][715]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.19-18.14.35:382][715]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.19-18.14.35:382][715]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.19-18.14.35:391][715]LogInit: FAudioDevice initialized.
+[2021.11.19-18.14.35:397][715]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.11.19-18.14.35:403][715]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.11.19-19.14.35
+[2021.11.19-18.14.35:404][715]LogWorld: Bringing up level for play took: 0.007244
+[2021.11.19-18.14.35:405][715]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.11.19-18.14.35:407][715]PIE: Server logged in
+[2021.11.19-18.14.35:407][715]PIE: Play in editor total start time 0,21 seconds.
+[2021.11.19-18.14.41:841][462]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap
+[2021.11.19-18.14.47:127][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.14.47:127][914]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.14.47:127][914]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-18.14.47:128][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.14.47:140][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.19-18.14.47:143][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.14.47:157][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.14.47:173][914]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020ABD9A9F80), frame # 164914
+[2021.11.19-18.14.47:173][914]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020A3433F200), frame # 164914
+[2021.11.19-18.14.47:176][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.11.19-18.14.47:221][915]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.11.19-18.14.51:777][341]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.19-18.14.51:786][341]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.19-18.14.51:786][341]PIE: New page: PIE session: TopDownExampleMap (19 lis 2021, 20:14:51)
+[2021.11.19-18.14.51:787][341]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.14.51:920][341]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133468s)
+[2021.11.19-18.14.51:921][341]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.11.19-18.14.51:921][341]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020AEDD01C00), frame # 165341
+[2021.11.19-18.14.51:921][341]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020AB6FEFB00), frame # 165341
+[2021.11.19-18.14.51:921][341]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2021.11.19-18.14.51:921][341]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.134702s)
+[2021.11.19-18.14.51:936][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.11.19-18.14.51:938][341]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.19-18.14.51:938][341]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.19-18.14.51:938][341]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.19-18.14.51:938][341]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.19-18.14.51:938][341]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.19-18.14.51:938][341]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.19-18.14.51:938][341]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.19-18.14.51:938][341]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.19-18.14.51:938][341]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.19-18.14.51:938][341]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.19-18.14.51:944][341]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.19-18.14.51:944][341]LogAudioMixer: Display: 1: FrontRight
+[2021.11.19-18.14.51:954][341]LogAudioMixer: Display: Using Audio Device Out 1-2 (MOTU M Series)
+[2021.11.19-18.14.51:954][341]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.19-18.14.51:954][341]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.19-18.14.51:954][341]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.19-18.14.51:955][341]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.19-18.14.51:964][341]LogInit: FAudioDevice initialized.
+[2021.11.19-18.14.51:973][341]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.11.19-18.14.51:980][341]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.11.19-19.14.51
+[2021.11.19-18.14.51:982][341]LogWorld: Bringing up level for play took: 0.008624
+[2021.11.19-18.14.51:982][341]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.11.19-18.14.51:984][341]PIE: Server logged in
+[2021.11.19-18.14.51:984][341]PIE: Play in editor total start time 0,198 seconds.
+[2021.11.19-18.14.56:565][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.14.56:565][807]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.14.56:565][807]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-18.14.56:567][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.14.56:573][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.19-18.14.56:577][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.14.56:589][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.14.56:602][807]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020AB6FEFB00), frame # 165807
+[2021.11.19-18.14.56:602][807]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020AEDD01C00), frame # 165807
+[2021.11.19-18.14.56:605][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2021.11.19-18.14.56:653][808]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.11.19-18.15.08:844][111]BlueprintLog: New page: Compile TopDownExampleMap
+[2021.11.19-18.15.08:888][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2021.11.19-18.15.09:328][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.11.19-18.15.09:639][154]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/TopDownExampleMap945B5C7F4F15C0C0CAEA4FAFEA1453C2.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.11.19-18.15.09:656][154]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.344
+[2021.11.19-18.15.09:665][154]AssetCheck: New page: Asset Save: TopDownExampleMap
+[2021.11.19-18.15.09:665][154]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.11.19-18.15.10:899][285]LogTemp: Repeating last play command: Selected Viewport
+[2021.11.19-18.15.10:909][285]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.11.19-18.15.10:909][285]PIE: New page: PIE session: TopDownExampleMap (19 lis 2021, 20:15:10)
+[2021.11.19-18.15.10:909][285]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.15.11:041][285]LogPlayLevel: PIE: StaticDuplicateObject took: (0.132102s)
+[2021.11.19-18.15.11:042][285]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.11.19-18.15.11:042][285]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020B6ED40600), frame # 167285
+[2021.11.19-18.15.11:042][285]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020AFB88AC00), frame # 167285
+[2021.11.19-18.15.11:042][285]LogPlayLevel: PIE: World Init took: (0.001165s)
+[2021.11.19-18.15.11:042][285]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.133424s)
+[2021.11.19-18.15.11:057][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.11.19-18.15.11:058][285]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.19-18.15.11:058][285]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.19-18.15.11:058][285]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.19-18.15.11:058][285]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.19-18.15.11:058][285]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.19-18.15.11:058][285]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.19-18.15.11:058][285]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.19-18.15.11:058][285]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.19-18.15.11:059][285]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.19-18.15.11:059][285]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.19-18.15.11:064][285]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.19-18.15.11:064][285]LogAudioMixer: Display: 1: FrontRight
+[2021.11.19-18.15.11:074][285]LogAudioMixer: Display: Using Audio Device Out 1-2 (MOTU M Series)
+[2021.11.19-18.15.11:074][285]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.19-18.15.11:074][285]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.19-18.15.11:075][285]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.19-18.15.11:075][285]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.19-18.15.11:084][285]LogInit: FAudioDevice initialized.
+[2021.11.19-18.15.11:089][285]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.11.19-18.15.11:096][285]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.11.19-19.15.11
+[2021.11.19-18.15.11:098][285]LogWorld: Bringing up level for play took: 0.008484
+[2021.11.19-18.15.11:098][285]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.11.19-18.15.11:100][285]PIE: Server logged in
+[2021.11.19-18.15.11:100][285]PIE: Play in editor total start time 0,192 seconds.
+[2021.11.19-18.15.14:066][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.15.14:066][618]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.11.19-18.15.14:066][618]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.11.19-18.15.14:068][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.15.14:079][618]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.11.19-18.15.14:083][618]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.19-18.15.14:095][618]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.19-18.15.14:109][618]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020AFB88AC00), frame # 167618
+[2021.11.19-18.15.14:109][618]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020B6ED40600), frame # 167618
+[2021.11.19-18.15.14:112][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.11.19-18.15.14:153][619]LogPlayLevel: Display: Destroying online subsystem :Context_26
