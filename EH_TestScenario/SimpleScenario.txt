@@ -1,0 +1,27 @@
+Cutscene scenario:
+As a player we walk down to the cave in which is prison.
+Shot#1 cutscene begins with a shot on the prison guard which then hears door being open. He turns his head right and new shot begins. (Guard character exposition)
+Sho#2 shot on the doors which then open and we see a woman character walking confidently inside. (Hero1 character exposition)
+Shot#3 then we have a shot from the ravine showing her moving along the track. (Location exposition)
+Shot#4 Then we have a shot from behind of her showing her approaching to the guard which is getting up from sitting position. (Dialogue anticipation)
+(Possible additional Shot) - Shot on some random prisoner and then on the Hero1 face. (but it's not crucial and it would take time from the 5s descripted in the doc)
+Shot#5 Dialogue montage between Hero1 and Guard.
+Shot#6 Shot from the cell, focused on the prisoner's face which will take about 1/3 of the scree, in the background we can see unfocused guard and Hero1 approaching. When they approach the prisoner wakes up and turns his head. Camera focuses on guard and Hero1. (Hero 2 character exposition)
+Shot#7 Shot from the back of guard and Hero1. We see Hero 2 getting up in cell and approaching cell's bars. (Dialogue anticipation)
+Shot#8 Dialogue montage. (explore different camera takes.)
+Shot#9 Shot from the back of the guard and hero1. Guard approaches the cell and unlocks it, camera rolls back during the shot.
+Shot#10 Wide shot of the whole location and we see as characters go from the cell towards the doors. Camera sweeps from the right to the left and when characters are mid-way through the corridor the fade in starts.
+Cutscene ends in a fade in back in the gameplay outside the cave.
+
+
+
+Dialougues:
+	First dialogue, women with guard:
+		Woman (to guard): I’ve came for prisoner number 46.
+		Guard (to woman): Well I hope that’s the last time I see him.
+	Second Dialogue:
+		Women (to man): So, what have you done this time?
+		Man (to Woman): Come on that was just a misunderstanding. 
+		Guard (to Woman): Yeah misunderstanding my shit, that damn fool stole the mayor’s jewels.
+		Man (to woman): I thought there were grapes ! they looked so tasty.
+		Woman (To guard): Eh he never learns, get him out of the cell. I will keep an eye on him.
