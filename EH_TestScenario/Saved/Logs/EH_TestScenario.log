@@ -2833,3 +2833,58 @@ Are you sure?
 [2021.11.19-20.32.21:623][562]AssetCheck: New page: Asset Save: multiple assets
 [2021.11.19-20.32.21:623][562]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
 [2021.11.19-20.32.21:623][562]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.11.19-20.33.26:157][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.19-20.33.27:657][457]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-20.33.28:621][457]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Cutscene/Cutscene/shots/Shot8.Shot8
+[2021.11.19-20.33.28:999][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2021.11.19-20.33.29:012][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.11.19-20.33.29:025][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.11.19-20.33.30:895][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.11.19-20.33.34:995][657]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-20.33.35:969][657]LogUObjectGlobals: Force Deleting 5 Package(s):
+	Asset Name: /Game/Cutscene/Cutscene/shots/Shot8_2.Shot8_2
+	Asset Name: /Game/Cutscene/Cutscene/shots/Shot8_3.Shot8_3
+	Asset Name: /Game/Cutscene/Cutscene/shots/Shot8_4.Shot8_4
+	Asset Name: /Game/Cutscene/Cutscene/shots/Shot8_5.Shot8_5
+	Asset Name: /Game/Cutscene/Cutscene/shots/Shot9.Shot9
+[2021.11.19-20.33.36:954][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.11.19-20.33.36:967][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.19-20.33.36:980][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.19-20.33.36:992][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.19-20.33.37:005][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.11.19-20.33.37:018][657]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.11.19-20.33.37:029][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2021.11.19-20.33.38:623][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.11.19-20.33.41:849][831]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.19-20.33.42:813][831]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Cutscene/Cutscene/shots/Shot010.Shot010
+[2021.11.19-20.33.43:187][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2021.11.19-20.33.43:201][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.11.19-20.33.43:213][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.11.19-20.33.44:934][ 21]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-20.38.07:615][633]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/shots/Shot_8.Shot_8
+[2021.11.19-20.38.10:923][883]Cmd: TRANSACTION UNDO
+[2021.11.19-20.38.10:923][883]LogEditorTransaction: Undo Move Keys or Sections
+[2021.11.19-20.38.15:592][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot_8" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_8.uasset" SILENT=true
+[2021.11.19-20.38.15:609][198]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot_8279E340B433E5B658AE0D8AE30FFFF20.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_8.uasset'
+[2021.11.19-20.38.15:622][198]AssetCheck: New page: Asset Save: Shot_8
+[2021.11.19-20.38.15:622][198]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot_8.Shot_8
+[2021.11.19-20.38.16:705][276]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-20.38.30:918][791]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-20.39.36:331][733]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/shots/Shot_8_3.Shot_8_3
+[2021.11.19-20.39.40:464][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/shots/Shot_8_3" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_8_3.uasset" SILENT=true
+[2021.11.19-20.39.40:480][ 58]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/Shot_8_383DEE1FE41104DE3041430928F142E34.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/shots/Shot_8_3.uasset'
+[2021.11.19-20.39.40:496][ 58]AssetCheck: New page: Asset Save: Shot_8_3
+[2021.11.19-20.39.40:496][ 58]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/shots/Shot_8_3.Shot_8_3
+[2021.11.19-20.39.41:234][115]LogSlate: Window 'Sequencer' being destroyed
+[2021.11.19-20.39.45:373][592]LogAssetEditorSubsystem: Opening Asset editor for LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-20.42.00:329][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/CutsceneMaster" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset" SILENT=true
+[2021.11.19-20.42.00:337][327]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMaster3CDF9E2F44BD5871FEFA53ADDCC6740D.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset'
+[2021.11.19-20.42.00:352][327]AssetCheck: New page: Asset Save: CutsceneMaster
+[2021.11.19-20.42.00:352][327]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-20.43.09:353][748]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cutscene/Cutscene/CutsceneMaster" FILE="../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset" SILENT=true
+[2021.11.19-20.43.09:362][748]LogSavePackage: Moving '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Saved/CutsceneMaster82B7CE2A43448B2FA653B18B7D399D52.tmp' to '../../../../../../GITHUB/EH_Test/Tomczuk-EH_Test/EH_TestScenario/Content/Cutscene/Cutscene/CutsceneMaster.uasset'
+[2021.11.19-20.43.09:379][748]AssetCheck: New page: Asset Save: CutsceneMaster
+[2021.11.19-20.43.09:379][748]LogContentValidation: Display: Validating LevelSequence /Game/Cutscene/Cutscene/CutsceneMaster.CutsceneMaster
+[2021.11.19-20.43.17:160][253]LogSlate: Window 'Sequencer' being destroyed
